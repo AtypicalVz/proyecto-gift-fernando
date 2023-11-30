@@ -16,7 +16,7 @@ export const ProyectoGift = () => {
   // Devolvemos el JSX que se renderizará 
   return ( 
     <>
-     <h1>ProyectoGiftFernando</h1> 
+     <h1>Proyecto Gift Fernando</h1> 
       {/* // Renderizamos el componente AddCategory y le pasamos una función que se 
 activará cuando se agregue una nueva 
       categoría */} 
