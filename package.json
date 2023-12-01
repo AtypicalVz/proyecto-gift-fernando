@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/AtypicalVz/proyecto-gift-fernando",
+  "homepage": "https://atypicalvz.github.io/proyecto-gift-fernando/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
