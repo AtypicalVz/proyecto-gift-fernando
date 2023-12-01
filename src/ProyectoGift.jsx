@@ -4,7 +4,7 @@ import { GifGrid } from './components/GifGrid';
 export const ProyectoGift = () => { 
    
 
-  const [categories, setCategories] = useState(["Dragon ball gt"]); 
+  const [categories, setCategories] = useState(["Universo"]); 
   // Definimos una función onAddCategory que toma un argumento newCategory 
   const onAddCategory = (newCategory) => { 
     
