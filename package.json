@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://atypicalvz.github.io/proyecto-gift-fernando/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
